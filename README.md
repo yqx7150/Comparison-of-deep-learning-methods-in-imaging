@@ -37,7 +37,6 @@ Z. He, Q. Liu, et al., A comparative study of unsupervised deep learning methods
 B. Yaman, et at., Self-supervised learning of physics-guided reconstruction neural networks without fully sampled reference data, MRM, 2020.     
 K. H. Jin, et at., Self-supervised deep active accelerated MRI, arXiv, 2019.      
 B. Yaman, et at., Multi-mask self-supervised learning for physics-guided neural networks in highly accelerated MRI, arXiv, 2020.    
-D. Wu, et at., Self-supervised dynamic CT perfusion image denoising with deep neural networks, TRPS, 2020.     
 A. Taleb, et at., Multimodal self-supervised learning for medical image analysis, arXiv, 2019.      
 ......      
 
