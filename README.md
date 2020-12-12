@@ -1,6 +1,8 @@
 # Comparison-of-deep-learning-methods-in-imaging
 Comparison of deep learning methods in imaging: Supervised, unsupervised and self-supervised learning
 
+![repeat-EASEL](https://github.com/yqx7150/EASEL/blob/master/EASEL/Figs/fig.png)
+
 ## A review of SL for MRI Rec
 S. Wang, D. Liang, et al., “Accelerating magnetic resonance imaging via deep learning,” ISBI, 2016.      
 J. Sun, Z. Xu, et al., “Deep ADMM-net for compressive sensing MRI,” NIPS, 2016.     
