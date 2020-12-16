@@ -3,6 +3,12 @@ Comparison of deep learning methods in imaging: Supervised, unsupervised and sel
 
 ![repeat-EASEL](https://github.com/yqx7150/Comparison-of-deep-learning-methods-in-imaging/tree/main/Figs/1.png)
 
+
+![repeat-EASEL](https://github.com/yqx7150/Comparison-of-deep-learning-methods-in-imaging/tree/main/Figs/2.png)
+
+
+![repeat-EASEL](https://github.com/yqx7150/Comparison-of-deep-learning-methods-in-imaging/tree/main/Figs/3.png)
+
 ## A review of SL for MRI Rec
 S. Wang, D. Liang, et al., “Accelerating magnetic resonance imaging via deep learning,” ISBI, 2016.      
 J. Sun, Z. Xu, et al., “Deep ADMM-net for compressive sensing MRI,” NIPS, 2016.     
@@ -25,6 +31,9 @@ W. Zeng, et al., “A comparative study of CNN-based super-resolution methods in
 Antun V, Renna F, Poon C, et al., On instabilities of deep learning in image reconstruction and the potential costs of AI, PNAS, 2020.     
 ......   
 
+
+![repeat-EASEL](https://github.com/yqx7150/Comparison-of-deep-learning-methods-in-imaging/tree/main/Figs/4.png)
+
 ## A review of USL for MRI Rec
 Tezcan KC, Baumgartner CF, Luechinger R, Pruessmann KP, Konukoglu E. MR image reconstruction using deep density priors. IEEE Trans. Med. Imaging, vol. 38 pp. 1633-1642, 2018.   
 G. Luo, N. Zhao, W. Jiang, E.S. Hui, C. Peng. MRI reconstruction using deep Bayesian estimation. Magn. Reson. Med. 2020. https://doi.org/10.1002/mrm.28274        
@@ -35,6 +44,9 @@ C. Quan, J. Zhou, Y. Zhu, Y. Chen, S. Wang, D. Liang, Q. Liu, Homotopic gradient
 Z. He, Q. Liu, et al., A comparative study of unsupervised deep learning methods in MRI reconstruction, iMRI, 2020, ASMRM, 2020.    
 ......      
 
+
+![repeat-EASEL](https://github.com/yqx7150/Comparison-of-deep-learning-methods-in-imaging/tree/main/Figs/5.png)
+
 ## A review of SSL for MRI Rec
 B. Yaman, et at., Self-supervised learning of physics-guided reconstruction neural networks without fully sampled reference data, MRM, 2020.     
 K. H. Jin, et at., Self-supervised deep active accelerated MRI, arXiv, 2019.      
@@ -43,7 +55,7 @@ A. Taleb, et at., Multimodal self-supervised learning for medical image analysis
 ......      
 
 
-
+![repeat-EASEL](https://github.com/yqx7150/Comparison-of-deep-learning-methods-in-imaging/tree/main/Figs/6.png)
 
 
 
