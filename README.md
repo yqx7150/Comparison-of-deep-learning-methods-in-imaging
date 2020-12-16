@@ -29,8 +29,7 @@ W. Zeng, et al., “A comparative study of CNN-based super-resolution methods in
 Antun V, Renna F, Poon C, et al., On instabilities of deep learning in image reconstruction and the potential costs of AI, PNAS, 2020.     
 ......   
 
-
-![repeat-EASEL](https://github.com/yqx7150/Comparison-of-deep-learning-methods-in-imaging/tree/main/Figs/4.png)
+<div align="center"><img src="https://github.com/yqx7150/Comparison-of-deep-learning-methods-in-imaging/blob/main/Figs/4.png"> </div>
 
 ## A review of USL for MRI Rec
 Tezcan KC, Baumgartner CF, Luechinger R, Pruessmann KP, Konukoglu E. MR image reconstruction using deep density priors. IEEE Trans. Med. Imaging, vol. 38 pp. 1633-1642, 2018.   
@@ -42,8 +41,7 @@ C. Quan, J. Zhou, Y. Zhu, Y. Chen, S. Wang, D. Liang, Q. Liu, Homotopic gradient
 Z. He, Q. Liu, et al., A comparative study of unsupervised deep learning methods in MRI reconstruction, iMRI, 2020, ASMRM, 2020.    
 ......      
 
-
-![repeat-EASEL](https://github.com/yqx7150/Comparison-of-deep-learning-methods-in-imaging/tree/main/Figs/5.png)
+<div align="center"><img src="https://github.com/yqx7150/Comparison-of-deep-learning-methods-in-imaging/blob/main/Figs/5.png"> </div>
 
 ## A review of SSL for MRI Rec
 B. Yaman, et at., Self-supervised learning of physics-guided reconstruction neural networks without fully sampled reference data, MRM, 2020.     
@@ -52,8 +50,7 @@ B. Yaman, et at., Multi-mask self-supervised learning for physics-guided neural 
 A. Taleb, et at., Multimodal self-supervised learning for medical image analysis, arXiv, 2019.      
 ......      
 
-
-![repeat-EASEL](https://github.com/yqx7150/Comparison-of-deep-learning-methods-in-imaging/tree/main/Figs/6.png)
+<div align="center"><img src="https://github.com/yqx7150/Comparison-of-deep-learning-methods-in-imaging/blob/main/Figs/6.png"> </div>
 
 
 
