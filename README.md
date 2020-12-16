@@ -3,7 +3,7 @@ Comparison of deep learning methods in imaging: Supervised, unsupervised and sel
 
 ![repeat-EASEL](https://github.com/yqx7150/Comparison-of-deep-learning-methods-in-imaging/tree/main/Figs/1.png)
  <div align="center"><img src="https://github.com/yqx7150/Comparison-of-deep-learning-methods-in-imaging/tree/main/Figs/1.png">  </div>
-
+ ![image](https://github.com/yqx7150/Comparison-of-deep-learning-methods-in-imaging/blob/main/Figs/1.png)
 
 ![repeat-EASEL](https://github.com/yqx7150/Comparison-of-deep-learning-methods-in-imaging/tree/main/Figs/2.png)
  <div align="center"><img src="https://github.com/yqx7150/HGGDP/blob/master/hggdp_rec/sample/fig7.png"> </div>
