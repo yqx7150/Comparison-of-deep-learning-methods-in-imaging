@@ -1,6 +1,12 @@
 # Comparison-of-deep-learning-methods-in-imaging
 Comparison of deep learning methods in imaging: Supervised, unsupervised and self-supervised learning
 
+Supervised：Classically, standard supervised learning based methods approach this problem by collecting data sets of known latent images and their corresponding measurements. Specifically, it utilize data information to train a universal network for learning the mapping between the under-sampled and fully sampled data pairs in an end-to-end manner. Hence, the supervised method is known to be effective when a large training dataset with accurate labels is available.
+
+Unsupervised：The way of unsupervised learning is to formulate deep learning by using only under-sampled datasets for training. It also relates mostly to generative models which try to estimate the latent data distributions.
+
+Self-supervised：No ground-truth is used in self-supervised learning and aims at solving the inverse problem by exploiting internal information within the measurements themselves.
+
 <div align="center"><img src="https://github.com/yqx7150/Comparison-of-deep-learning-methods-in-imaging/blob/main/Figs/1.png">  </div>
 
 <div align="center"><img src="https://github.com/yqx7150/Comparison-of-deep-learning-methods-in-imaging/blob/main/Figs/2.png"> </div>
@@ -41,7 +47,7 @@ C. Quan, J. Zhou, Y. Zhu, Y. Chen, S. Wang, D. Liang, Q. Liu, Homotopic gradient
 Z. He, Q. Liu, et al., A comparative study of unsupervised deep learning methods in MRI reconstruction, iMRI, 2020, ASMRM, 2020.    
 ......      
 
-<div align="center"><img src="https://github.com/yqx7150/Comparison-of-deep-learning-methods-in-imaging/blob/main/Figs/5.png"> </div>
+<div align="center"><img src="https://github.com/yqx7150/Comparison-of-deep-learning-methods-in-imaging/blob/main/Figs/6.png"> </div>
 
 ## A review of SSL for MRI Rec
 B. Yaman, et at., Self-supervised learning of physics-guided reconstruction neural networks without fully sampled reference data, MRM, 2020.     
@@ -50,7 +56,7 @@ B. Yaman, et at., Multi-mask self-supervised learning for physics-guided neural 
 A. Taleb, et at., Multimodal self-supervised learning for medical image analysis, arXiv, 2019.      
 ......      
 
-<div align="center"><img src="https://github.com/yqx7150/Comparison-of-deep-learning-methods-in-imaging/blob/main/Figs/6.png"> </div>
+<div align="center"><img src="https://github.com/yqx7150/Comparison-of-deep-learning-methods-in-imaging/blob/main/Figs/5.png"> </div>
 
 
 
