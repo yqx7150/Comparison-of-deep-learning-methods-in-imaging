@@ -12,11 +12,17 @@ The way of unsupervised learning is to formulate deep learning by using only und
 No ground-truth is used in self-supervised learning and aims at solving the inverse problem by exploiting internal information within the measurements themselves.
 
 <div align="center"><img src="https://github.com/yqx7150/Comparison-of-deep-learning-methods-in-imaging/blob/main/Figs/1.png">  </div>
-
+    
+    
+    
 <div align="center"><img src="https://github.com/yqx7150/Comparison-of-deep-learning-methods-in-imaging/blob/main/Figs/2.png"> </div>
-
+      
+    
+    
 <div align="center"><img src="https://github.com/yqx7150/Comparison-of-deep-learning-methods-in-imaging/blob/main/Figs/3.png"> </div>
-
+      
+   
+   
 ## A review of SL for MRI Rec
 S. Wang, D. Liang, et al., “Accelerating magnetic resonance imaging via deep learning,” ISBI, 2016.      
 J. Sun, Z. Xu, et al., “Deep ADMM-net for compressive sensing MRI,” NIPS, 2016.     
