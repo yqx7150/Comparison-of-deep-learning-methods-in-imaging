@@ -1,11 +1,15 @@
 # Comparison-of-deep-learning-methods-in-imaging
 Comparison of deep learning methods in imaging: Supervised, unsupervised and self-supervised learning
 
-Supervised：Classically, standard supervised learning based methods approach this problem by collecting data sets of known latent images and their corresponding measurements. Specifically, it utilize data information to train a universal network for learning the mapping between the under-sampled and fully sampled data pairs in an end-to-end manner. Hence, the supervised method is known to be effective when a large training dataset with accurate labels is available.
+## Three Learning Strageties
+## Supervised Learning (SL)：   
+Classically, standard supervised learning based methods approach this problem by collecting data sets of known latent images and their corresponding measurements. Specifically, it utilize data information to train a universal network for learning the mapping between the under-sampled and fully sampled data pairs in an end-to-end manner. Hence, the supervised method is known to be effective when a large training dataset with accurate labels is available.
 
-Unsupervised：The way of unsupervised learning is to formulate deep learning by using only under-sampled datasets for training. It also relates mostly to generative models which try to estimate the latent data distributions.
+## Unsupervised Learning (USL)：
+The way of unsupervised learning is to formulate deep learning by using only under-sampled datasets for training. It also relates mostly to generative models which try to estimate the latent data distributions.
 
-Self-supervised：No ground-truth is used in self-supervised learning and aims at solving the inverse problem by exploiting internal information within the measurements themselves.
+## Self-supervised Learning (SSL)：
+No ground-truth is used in self-supervised learning and aims at solving the inverse problem by exploiting internal information within the measurements themselves.
 
 <div align="center"><img src="https://github.com/yqx7150/Comparison-of-deep-learning-methods-in-imaging/blob/main/Figs/1.png">  </div>
 
