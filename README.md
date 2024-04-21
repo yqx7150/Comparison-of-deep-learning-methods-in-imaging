@@ -1,6 +1,12 @@
 # Comparison-of-deep-learning-methods-in-imaging
 Comparison of deep learning methods in imaging: Supervised, unsupervised and self-supervised learning
 
+References:    
+[1] Wang S, Xiao T, Liu Q, Zheng H. Deep learning for fast MR imaging: a review for learning reconstruction from incomplete k-space data. Biomed Signal Process Control. 2021; 68:102579. [<font size=5>**[Paper]**</font>](https://www.sciencedirect.com/science/article/abs/pii/S1746809421001762)  
+    
+[2] Wang S, Wu R, Jia S, et al. Knowledge-driven deep learning for fast MR imaging: Undersampled MR image reconstruction from supervised to un-supervised learning. Magn Reson Med. 2024; 1-23. [<font size=5>**[Paper]**</font>](https://onlinelibrary.wiley.com/doi/10.1002/mrm.30105)       
+
+
 ## Three Learning Strageties
 ## Supervised Learning (SL)：   
 Classically, standard supervised learning based methods approach this problem by collecting data sets of known latent images and their corresponding measurements. Specifically, it utilize data information to train a universal network for learning the mapping between the under-sampled and fully sampled data pairs in an end-to-end manner. Hence, the supervised method is known to be effective when a large training dataset with accurate labels is available.
